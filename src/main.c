@@ -26,7 +26,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <glib.h>
-#include <dockapp.h>
+#include <libdockapp/dockapp.h>
 
 #include "ui.h"
 #include "udisks.h"

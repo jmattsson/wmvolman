@@ -27,7 +27,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <glib.h>
-#include <dockapp.h>
+#include <libdockapp/dockapp.h>
 
 #include <time.h>
 
